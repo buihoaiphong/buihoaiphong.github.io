@@ -1,0 +1,14 @@
+body
+{
+	background-color: rgb(129, 185, 248);
+}
+img
+{
+	float:right;
+	width:500px;
+	height:600px;
+}
+h1, h2, h3, h4, h5, h6
+{
+	font-size:40px; color:rgb(0,0,126);
+}
